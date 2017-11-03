@@ -1,0 +1,24 @@
+
+
+#marktxt{
+    float: right;
+    margin: 0 auto;
+    padding-left: 80px;
+    
+}
+#markpic{
+    float: left;
+    clear: left;
+    position: relative;
+    margin:0 auto;
+}
+
+#solo{
+    float: left;
+    margin: 0 auto
+}
+
+#Fam{
+    float: right;
+    margin: 0 auto;
+}
